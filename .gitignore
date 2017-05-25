@@ -1,0 +1,27 @@
+# folders
+02/.idea/
+02/out/
+
+03/.idea/
+03/out/
+
+04/.idea/
+04/out/
+
+05/.idea/
+05/out/
+
+06/.idea/
+06/out/
+
+07/.idea/
+07/out/
+
+
+# files
+02/*.iml
+03/*.iml
+04/*.iml
+05/*.iml
+06/*.iml
+07/*.iml
